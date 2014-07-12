@@ -1,0 +1,6 @@
+C:\Users\Zhiyu\documents\visual studio 2010\Projects\WebTest\UserJson\bin\Debug\UserJson.exe
+C:\Users\Zhiyu\documents\visual studio 2010\Projects\WebTest\UserJson\bin\Debug\UserJson.pdb
+C:\Users\Zhiyu\documents\visual studio 2010\Projects\WebTest\UserJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zhiyu\documents\visual studio 2010\Projects\WebTest\UserJson\obj\x86\Debug\UserJson.csprojResolveAssemblyReference.cache
+C:\Users\Zhiyu\documents\visual studio 2010\Projects\WebTest\UserJson\obj\x86\Debug\UserJson.exe
+C:\Users\Zhiyu\documents\visual studio 2010\Projects\WebTest\UserJson\obj\x86\Debug\UserJson.pdb
