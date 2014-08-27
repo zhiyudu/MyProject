@@ -1,5 +1,0 @@
-c:\users\zhiyu\documents\visual studio 2010\Projects\WebTest\WebTest\bin\WebTest.dll
-c:\users\zhiyu\documents\visual studio 2010\Projects\WebTest\WebTest\bin\WebTest.pdb
-c:\users\zhiyu\documents\visual studio 2010\Projects\WebTest\WebTest\obj\Debug\WebTest.dll
-c:\users\zhiyu\documents\visual studio 2010\Projects\WebTest\WebTest\obj\Debug\WebTest.pdb
-C:\Users\Zhiyu\documents\visual studio 2010\Projects\WebTest\WebTest\obj\Debug\WebTest.csprojResolveAssemblyReference.cache
